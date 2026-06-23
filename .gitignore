@@ -1,0 +1,48 @@
+# Java / NetBeans build output
+build/
+dist/
+target/
+out/
+bin/
+*.class
+*.jar.original
+
+# NetBeans local/private configuration
+nbproject/private/
+
+# Local working files used while preparing the assignment
+tmp/
+instruksi_tugas/
+template_laporan/
+PANDUAN_GITHUB.md
+
+# Duplicate raw screenshots from Windows screenshot tool.
+# The repository uses the clean names: Gambar 1..., Gambar 2..., etc.
+screenshots/Screenshot *.png
+
+# Logs, crash dumps, and temporary files
+*.log
+*.tmp
+*.temp
+*.bak
+*.swp
+*.old
+hs_err_pid*
+replay_pid*
+
+# Microsoft Office temporary/lock files
+~$*.docx
+~$*.xlsx
+~$*.pptx
+*.asd
+*.wbk
+
+# IDE/editor local settings
+.idea/
+.vscode/
+*.iml
+
+# Operating system files
+.DS_Store
+Thumbs.db
+desktop.ini
